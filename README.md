@@ -2,7 +2,7 @@
 Using a dataset of over one-and-a-half million Places entries heavily altered to include noise, duplications, extraneous, or incorrect information, we'll produce an algorithm that predicts which Place entries represent the same point-of-interest. Each Place entry includes attributes like the name, street address, and coordinates.
 
 ## Main information
-- The model from this project has been created for the ["Foursquare - Location Matching"]([https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes/overview/description](https://www.kaggle.com/competitions/foursquare-location-matching/overview/description) competition on kaggle
+- The model from this project has been created for the ["Foursquare - Location Matching"](https://www.kaggle.com/competitions/foursquare-location-matching) competition on kaggle
 - Main file is created in Ipython notebook format (.ipynb)
 - Main model is transformer XLM-Roberta-base
 - This project achives 0.829 [Intersection over Union](https://en.wikipedia.org/wiki/Jaccard_index) score
